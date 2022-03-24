@@ -1,2 +1,16 @@
 # APP-Lab-Programs
-Advanced Programming Practice- Python Codes for each lab session
+
+**APP Lab Session 1**
+- Basic Python Programming Codes
+
+**APP Lab Session 2: Structured Programming Paradigms**
+
+***Set-1 Questions***
+- Easy Questions (5 Questions)
+- Difficult Questions (3 Questions)
+
+**APP Lab Session 3: Procedural Programming Paradigms**
+
+***Set-9 & Set-6 Questions***
+- Easy Questions (5 Questions)
+- Difficult Questions (3 Questions)
