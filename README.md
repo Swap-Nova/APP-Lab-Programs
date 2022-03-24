@@ -11,6 +11,6 @@
 
 **APP Lab Session 3: Procedural Programming Paradigms**
 
-***Set-9 & Set-6 Questions***
+***Set-6 Questions***
 - Easy Questions (5 Questions)
 - Difficult Questions (3 Questions)
