@@ -14,3 +14,9 @@
 ***Set-6 Questions***
 - Easy Questions (5 Questions)
 - Difficult Questions (3 Questions)
+
+**APP Lab Session 4: Object Oriented Programming Paradigms**
+
+***Set-6 Questions***
+- Easy Questions (5 Questions)
+- Difficult Questions (3 Questions)
