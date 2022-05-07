@@ -22,4 +22,4 @@
 - Difficult Questions (3 Questions)
 
 
-**APP Lab Session 5: SQL Programming Paradigms**
+**APP Lab Session 5: Declarative Programming Paradigms- SQL**
