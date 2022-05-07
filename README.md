@@ -20,3 +20,6 @@
 ***Set-6 Questions***
 - Easy Questions (5 Questions)
 - Difficult Questions (3 Questions)
+
+
+**APP Lab Session 5: SQL Programming Paradigms**
