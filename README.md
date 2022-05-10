@@ -23,4 +23,5 @@
 
 **APP Lab Session 4: Declarative Programming Paradigms- SQL**
 
-**APP Lab Session 5: Python offers multiple options for developing GUI (Graphical User Interface). We have used Tkinter which is the only framework that's built into the Python standard library
+**APP Lab Session 5: Event Programming Paradigms- Tkinter**
+- Python offers multiple options for developing GUI (Graphical User Interface). We have used Tkinter which is the only framework that's built into the Python standard library
